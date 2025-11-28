@@ -79,7 +79,7 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" uid="c46464619ebc44d98a375548b7e14f00" name="Recherche de solutions existantes" meeting="false" start="2025-11-21" duration="1" complete="100" priority="4" expand="true">
+        <task id="0" uid="c46464619ebc44d98a375548b7e14f00" name="Recherche de solutions existantes" meeting="false" start="2025-11-21" duration="5" complete="100" priority="4" webLink="https%3A%2F%2Fmarius220707.github.io%2FProjet_arrosage%2FCarte_mentale%2FMVHtmlExport%2Findex.htm" expand="true">
             <notes><![CDATA[Objectifs:
 Trouver les différents types d'arrosage
 
@@ -91,19 +91,13 @@ Conclusion:
 Recherche des informations faite en 1h30 avec définition et les differents types d'arrosage et inclusion des vidéos explicatives]]></notes>
             <depend id="2" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="2" uid="558727cf65554d20b70b098e57a8400d" name="Jalon recherche de solutions" meeting="true" start="2025-11-24" duration="0" complete="0" expand="true">
+        <task id="2" uid="558727cf65554d20b70b098e57a8400d" name="Jalon recherche de solutions" meeting="true" start="2025-11-28" duration="0" complete="0" expand="true">
             <depend id="1" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="1" uid="523780baf115476586818cb4ccf0e359" name="Analyse du besoin" meeting="false" start="2025-11-24" duration="7" complete="0" expand="true">
+        <task id="1" uid="523780baf115476586818cb4ccf0e359" name="Analyse du besoin" meeting="false" start="2025-11-28" duration="10" complete="0" expand="true">
             <depend id="3" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="3" uid="aa38c83b8aa14494b2c9968379bc4aef" name="Jalon analyse du besoin" meeting="true" start="2025-12-03" duration="0" complete="0" expand="true">
-            <depend id="4" type="2" difference="0" hardness="Strong"/>
-        </task>
-        <task id="4" uid="682845a71a2e4ad0a9185a6815884ce8" name="Prototypage" meeting="false" start="2025-12-11" duration="5" complete="0" expand="true">
-            <task id="6" uid="112435be97b3439ea84b384182d9e3e9" name="Modélisation 3D" meeting="false" start="2025-12-11" duration="1" complete="0" expand="true"/>
-            <task id="5" uid="6c4e4148dc1344e89c5b4f0845debd72" name="Simulation Vittasciences" meeting="false" start="2025-12-15" duration="3" complete="0" expand="true"/>
-        </task>
+        <task id="3" uid="aa38c83b8aa14494b2c9968379bc4aef" name="Jalon analyse du besoin" meeting="true" start="2025-12-12" duration="0" complete="0" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="Marius" function="Default:1" contacts="" phone=""/>
@@ -112,8 +106,6 @@ Recherche des informations faite en 1h30 avec définition et les differents type
     <allocations>
         <allocation task-id="0" resource-id="0" function="Default:1" responsible="true" load="100.0"/>
         <allocation task-id="1" resource-id="0" function="Default:1" responsible="true" load="100.0"/>
-        <allocation task-id="6" resource-id="0" function="Default:1" responsible="true" load="100.0"/>
-        <allocation task-id="5" resource-id="1" function="2" responsible="true" load="100.0"/>
     </allocations>
     <vacations/>
     <previous/>
