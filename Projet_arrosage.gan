@@ -95,6 +95,12 @@ Recherche des informations faite en 1h30 avec définition et les differents type
             <depend id="1" type="2" difference="0" hardness="Strong"/>
         </task>
         <task id="1" uid="523780baf115476586818cb4ccf0e359" name="Analyse du besoin" meeting="false" start="2025-11-28" duration="10" complete="0" expand="true">
+            <notes><![CDATA[Objectifs: Analyse du besoin par le contexte et la création du croquis et recherche d' idées.
+
+Méthodes: Etudier  le contexte precis avec les contraintes et les attentes. Comparaison de notre carte mental avec les choix possibles. Remplissage des diagrammes
+
+
+Conclusion: Information sur contexte et spécification du project et commencment du croquis pour le project. ]]></notes>
             <depend id="3" type="2" difference="0" hardness="Strong"/>
         </task>
         <task id="3" uid="aa38c83b8aa14494b2c9968379bc4aef" name="Jalon analyse du besoin" meeting="true" start="2025-12-12" duration="0" complete="0" expand="true"/>
