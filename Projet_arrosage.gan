@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="http://" view-date="2026-01-20" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="http://" view-date="2026-01-18" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description><![CDATA[Projet de création d'un système d'arrosage automatique]]></description>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nom" width="187" order="0"/>
@@ -145,12 +145,12 @@ méthode: essaie et codage
 conclusion: codage reussi avec changement de carte. Passage de carte microbit en carte arduino.]]></notes>
             <depend id="9" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="12" uid="5a949bc3bda745c4aeb1217fe275319a" name="tâche_12" meeting="false" start="2026-02-04" duration="2" complete="27" expand="true">
-            <notes><![CDATA[objectif: Mettre le projet a jour et le remettre au prof
+        <task id="12" uid="5a949bc3bda745c4aeb1217fe275319a" name="Fin de projet" meeting="false" start="2026-02-04" duration="2" complete="63" expand="true">
+            <notes><![CDATA[objectif: Mettre le projet a jour, finir le projet et le remettre au prof
 
-méthode: mettre tout a jour
+méthode: mettre tout a jour. Assembler l'ensemble du projet (revus de la découpe laser. changement de sens du haut du tube.), filmer et prendre en photo et vidéo le projet. Ensuite tout déplacer sur github
 
-conclusion: Fin de projet ]]></notes>
+conclusion: Fin de projet  avec quelque complication de dernière minute comme manque de matériel ou les mesures qui sont bonnes mais que l'épaisseur a été négliger mais revu avec le changement de sens du haut du tube.]]></notes>
         </task>
     </tasks>
     <resources>
@@ -161,6 +161,8 @@ conclusion: Fin de projet ]]></notes>
         <allocation task-id="0" resource-id="0" function="Default:1" responsible="true" load="100.0"/>
         <allocation task-id="1" resource-id="0" function="Default:1" responsible="true" load="100.0"/>
         <allocation task-id="5" resource-id="0" function="Default:1" responsible="true" load="100.0"/>
+        <allocation task-id="8" resource-id="0" function="Default:1" responsible="true" load="100.0"/>
+        <allocation task-id="10" resource-id="1" function="2" responsible="true" load="100.0"/>
     </allocations>
     <vacations/>
     <previous/>
