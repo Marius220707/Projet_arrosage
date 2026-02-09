@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="http://" view-date="2026-01-18" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="http://" view-date="2025-11-13" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description><![CDATA[Projet de création d'un système d'arrosage automatique]]></description>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nom" width="187" order="0"/>
@@ -111,7 +111,7 @@ Conclusion: Information sur contexte et spécification du project et commencment
         <task id="3" uid="aa38c83b8aa14494b2c9968379bc4aef" name="Jalon analyse du besoin" meeting="true" start="2025-12-05" duration="0" complete="0" expand="true">
             <depend id="5" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="5" uid="e098b23a16344777ad3c68955acfadf8" name="Revue des idées" meeting="false" start="2025-12-05" duration="6" complete="100" expand="true">
+        <task id="5" uid="e098b23a16344777ad3c68955acfadf8" name="Revue des idées" meeting="false" start="2025-12-05" duration="6" complete="100" webLink="https%3A%2F%2Fgithub.com%2FMarius220707%2FProjet_arrosage%2Fschema%2Fschema_fr.jpg" expand="true">
             <notes><![CDATA[Objectifs: Choisir la solution, realiser son croquis, visualisation des composants a disposition pour le projet. (Led, Pompe a eau, Detecteur d'humiditée, Servomoteur, Detecteur du niveau d'eau, Capteur digite, Tuyaux.)
 
 
@@ -124,7 +124,7 @@ Conclusion: Reflexion sur le choix du projet et debut du croquis et reflexion su
             <depend id="8" type="2" difference="0" hardness="Strong"/>
             <depend id="10" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="8" uid="f58fce17ac0b4267be38195226b82639" name="conception 3D" meeting="false" start="2025-12-15" duration="35" complete="100" expand="true">
+        <task id="8" uid="f58fce17ac0b4267be38195226b82639" name="conception 3D" meeting="false" start="2025-12-15" duration="35" complete="100" webLink="https%3A%2F%2Fmarius220707.github.io%2FProjet_arrosage%2FWebGL%2Fwebgl_model.htm" expand="true">
             <notes><![CDATA[Objectif: faire la conception 3D, l'impression, l'assemblage
 
 
@@ -145,7 +145,7 @@ méthode: essaie et codage
 conclusion: codage reussi avec changement de carte. Passage de carte microbit en carte arduino.]]></notes>
             <depend id="9" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="12" uid="5a949bc3bda745c4aeb1217fe275319a" name="Fin de projet" meeting="false" start="2026-02-04" duration="2" complete="63" expand="true">
+        <task id="12" uid="5a949bc3bda745c4aeb1217fe275319a" name="Fin de projet" meeting="false" start="2026-02-04" duration="2" complete="100" webLink="https%3A%2F%2Fgithub.com%2FMarius220707%2FProjet_arrosage%2Fimage_projet" expand="true">
             <notes><![CDATA[objectif: Mettre le projet a jour, finir le projet et le remettre au prof
 
 méthode: mettre tout a jour. Assembler l'ensemble du projet (revus de la découpe laser. changement de sens du haut du tube.), filmer et prendre en photo et vidéo le projet. Ensuite tout déplacer sur github
