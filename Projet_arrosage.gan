@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="http://" view-date="2025-11-23" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="http://" view-date="2025-11-18" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description><![CDATA[Projet de création d'un système d'arrosage automatique]]></description>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nom" width="187" order="0"/>
@@ -112,12 +112,12 @@ Conclusion: Information sur contexte et spécification du project et commencment
             <depend id="5" type="2" difference="0" hardness="Strong"/>
         </task>
         <task id="5" uid="e098b23a16344777ad3c68955acfadf8" name="Revue des idées" meeting="false" start="2025-12-05" duration="6" complete="100" webLink="https%3A%2F%2Fmarius220707.github.io%2FProjet_arrosage%2Fschema%2Fschema_fr.jpg" expand="true">
-            <notes><![CDATA[Objectifs: Choisir la solution, realiser son croquis, visualisation des composants a disposition pour le projet. (Led, Pompe a eau, Detecteur d'humiditée, Servomoteur, Detecteur du niveau d'eau, Capteur digite, Tuyaux.)
+            <notes><![CDATA[Objectifs: Choisir la solution, realiser son croquis, visualisation des composants a disposition pour le projet. (Pompe a eau, Detecteur d'humiditée, Servomoteur, Detecteur du niveau d'eau, Capteur digite, Tuyaux.)
 
 
 Méthodes: Reflexion, recherche, analyse. Tout cela suivi de l'analyse des besoins. Visualisation des composant possible a utiliser pour le projet.
 
-Conclusion: Reflexion sur le choix du projet et debut du croquis et reflexion sur les composants possible a utilisé. Partager l'idée a Noah pour voir ce qu'il en pense.]]></notes>
+Conclusion: Reflexion sur le choix du projet et debut du croquis et reflexion sur les composants possible a utilisé.]]></notes>
             <depend id="7" type="2" difference="0" hardness="Strong"/>
         </task>
         <task id="7" uid="0c918cb5acbf4e03a805c60e1fe5641d" name="Jalon revue des idées" meeting="true" start="2025-12-15" duration="0" complete="0" expand="true">
