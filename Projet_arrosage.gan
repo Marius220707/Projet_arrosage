@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="http://" view-date="2025-11-18" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
-    <description><![CDATA[Projet de création d'un système d'arrosage automatique]]></description>
+<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="https://marius220707.github.io/Projet_arrosage/projet-arrosage_html/Projet_arrosage.html" view-date="2025-11-21" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+    <description><![CDATA[Projet de création d'un système d'arrosage automatique dans le style de Mario.]]></description>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nom" width="187" order="0"/>
         <field id="tpd4" name="Date de début" width="70" order="1"/>
