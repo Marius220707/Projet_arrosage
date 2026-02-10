@@ -50,9 +50,11 @@ A:hover {
   text-decoration: underline;
   font-size: large;
 }
-tr.ligne_sujet > td {
+tr.ligne_sujet > td:first-child > div:first-of-type > div:first-of-type {
   padding-top: 1em;
   padding-bottom: 1em;
+  font-weight: bold;
+  text-decoration: underline;  
 }
 tr.ligne_sous_sujet > td {
   padding-bottom: 1em;
