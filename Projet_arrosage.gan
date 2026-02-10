@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="https://marius220707.github.io/Projet_arrosage/projet-arrosage_html/Projet_arrosage.html" view-date="2025-11-21" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="https://marius220707.github.io/Projet_arrosage/projet-arrosage_html/Projet_arrosage.html" view-date="2026-01-10" view-index="0" gantt-divider-location="329" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description><![CDATA[Projet de création d'un système d'arrosage automatique dans le style de Mario.]]></description>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nom" width="187" order="0"/>
@@ -136,14 +136,18 @@ Conclusion: Conception 3D terminer. Avec modification de taille du cache pot du 
         </task>
         <task id="9" uid="363b14fab7ee4d59ae388931ac58f166" name="fin de conception" meeting="true" start="2026-02-04" duration="0" complete="0" expand="true">
             <depend id="12" type="2" difference="0" hardness="Strong"/>
+            <depend id="13" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="10" uid="c6f76e9a9318455b84881cef8fbaef99" name="codage" color="#66ff66" meeting="false" start="2025-12-15" duration="35" complete="100" expand="true">
+        <task id="10" uid="c6f76e9a9318455b84881cef8fbaef99" name="codage" color="#66ff66" meeting="false" start="2025-12-15" duration="35" complete="100" webLink="https%3A%2F%2Fnoahmauger08-max.github.io%2FProjet_arrosage%2Fcode%2Fcode.pdf" expand="true">
             <notes><![CDATA[objectif: coder le programme de l'arroseur
 
 méthode: essaie et codage
 
 conclusion: codage reussi avec changement de carte. Passage de carte microbit en carte arduino.]]></notes>
             <depend id="9" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="13" uid="a6c25324d830420392371ec95829860b" name="video du projet" meeting="false" start="2026-02-04" duration="2" complete="100" webLink="https%3A%2F%2Fgithub.com%2FMarius220707%2FProjet_arrosage%2Fblob%2F8777ef316f72f1a24dc075217806ca4ec1ed96db%2FVideo%2F20260206_114617_1.mp4" expand="true">
+            <notes><![CDATA[Mise en marche du projet]]></notes>
         </task>
         <task id="12" uid="5a949bc3bda745c4aeb1217fe275319a" name="Fin de projet" meeting="false" start="2026-02-04" duration="2" complete="100" webLink="https%3A%2F%2Fmarius220707.github.io%2FProjet_arrosage%2Fimage_projet%2Fprojet1.jpg" expand="true">
             <notes><![CDATA[objectif: Mettre le projet a jour, finir le projet et le remettre au prof
